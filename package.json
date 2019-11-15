@@ -1,0 +1,24 @@
+{
+  "name": "jerryblog",
+  "version": "1.0.0",
+  "description": "Jerry's Blog",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitee.com/jerryqi/blog.git"
+  },
+  "keywords": [],
+  "author": "jerryqi",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://gitee.com/jerryqi/blog/issues"
+  },
+  "homepage": "https://gitee.com/jerryqi/blog#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "vuepress-theme-homesite": "^1.0.1"
+  }
+}
