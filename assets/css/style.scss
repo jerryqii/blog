@@ -1,9 +1,9 @@
 @import "{{ site.theme }}";
 
 #main-content {
-    width: 890px !important;
+    width: 890px;
 }
 
-#sidebar {
-    display: none !important;
+aside#sidebar {
+    display: none;
 }
