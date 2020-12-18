@@ -1,6 +1,6 @@
-# Lists
+# Home
 
 ### 202012
-- [Link to another page](./202012/another-page.html).
+- [Link to another page](./content/202012/another-page).
 
 ### History
