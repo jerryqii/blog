@@ -1,3 +1,3 @@
-[**Home**](./) | [**Dotnet**](./dotnet) | [**MiniProgram**](./miniprogram) | [**Other**](./other)
+[**Home**](./) \| [**Dotnet**](./dotnet) \| [**MiniProgram**](./miniprogram) \| [**Other**](./other)
   
 dotnet
