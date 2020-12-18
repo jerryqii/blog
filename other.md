@@ -1,6 +1,4 @@
 [**Home**](./) \| [**Dotnet**](./dotnet) \| [**MiniProgram**](./miniprogram) \| [**Other**](./other)
   
-### 202012
-- [Link to another page](./content/202012/another-page).
-
-### History
+### 201808
+- [Mac install SSHFS to mount remote folder](./page-other/202012/Mac install SSHFS to mount remote folder).
