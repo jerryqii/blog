@@ -1,5 +1,5 @@
 # 安装SSHFUS
-sshfs依赖于fuse，所以需要先安装fuse，这两个软件都可以在https://osxfuse.github.io/下载到。
+sshfs依赖于fuse，所以需要先安装fuse，这两个软件都可以在[https://osxfuse.github.io](https://osxfuse.github.io)下载到。
 
 注意安装顺序。
 
